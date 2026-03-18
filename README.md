@@ -53,9 +53,9 @@ I love building scalable systems and modern web/mobile apps.
 <h2>⚡ Currently Working On</h2>
 
 <ul>
-<li>🚀 Building scalable full-stack applications</li>
-<li>🧠 Learning system design & distributed systems</li>
-<li>⚡ Developing real-world developer tools</li>
+<li>Building scalable full-stack applications</li>
+<li>Learning system design & distributed systems</li>
+<li>Developing real-world developer tools</li>
 </ul>
 
 <hr/>
@@ -70,18 +70,20 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<h2>🎯 2026 Goals</h2>
+<h2>2026 Goals</h2>
 
 <ul>
-<li>🚀 Land a top tech role</li>
-<li>📦 Build production-grade systems</li>
-<li>🌍 Contribute to open source</li>
+<li>Land a top tech role</li>
+<li>Build production-grade systems</li>
+<li>Contribute to open source</li>
 </ul>
 
 <hr/>
 
 <h2>📊 GitHub Stats</h2>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=kartikvermajs&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
@@ -95,11 +97,9 @@ I love building scalable systems and modern web/mobile apps.
 </p>
 
 <hr/>
-
-<h2>👀 Profile Views</h2>
-
+<h2>📊 LeetCode Stats</h2>
 <p>
-<img src="https://komarev.com/ghpvc/?username=kartikvermajs&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://leetcard.jacoblin.cool/kartikverma951?theme=dark&ext=heatmap" />
 </p>
 
 <hr/>
