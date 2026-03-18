@@ -7,8 +7,8 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<!-- 🔥 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Applications;System+Design+Enthusiast" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=35&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Applications;System+Design+Enthusiast" />
 
 <hr/>
 
@@ -49,16 +49,6 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<h2>🚀 Featured Projects</h2>
-
-<ul>
-<li><b>Next.js Social Media App</b> – Full-stack platform with authentication, posts, and real-time features</li>
-<li><b>Redis Clone</b> – In-memory key-value store with caching logic</li>
-<li><b>Multithreaded Server</b> – Handles concurrent client requests efficiently</li>
-</ul>
-
-<hr/>
-
 <h2>⚡ Currently Working On</h2>
 
 <ul>
@@ -89,31 +79,18 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<h2>🏆 Achievements</h2>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=kartikvermajs&theme=radical&no-frame=true&margin-w=10&row=1" alt="trophies" />
-</p>
-
-<hr/>
-
 <h2>📊 GitHub Stats</h2>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
-<hr/>
-
-<h2>🐍 Contribution Graph</h2>
-
 <p>
-<img src="https://raw.githubusercontent.com/kartikvermajs/kartikvermajs/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 <hr/>
