@@ -7,8 +7,8 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<!-- 🔥 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Applications;System+Design+Enthusiast" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=35&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Applications;System+Design+Enthusiast" />
 
 <hr/>
 
@@ -46,16 +46,6 @@ I love building scalable systems and modern web/mobile apps.
 <img src="https://img.shields.io/badge/Caching-00c9a7?style=for-the-badge" style="border-radius:20px;" />
 <img src="https://img.shields.io/badge/System%20Design-ffa502?style=for-the-badge" style="border-radius:20px;" />
 </p>
-
-<hr/>
-
-<h2>🚀 Featured Projects</h2>
-
-<ul>
-<li><b>Next.js Social Media App</b> – Full-stack platform with authentication, posts, and real-time features</li>
-<li><b>Redis Clone</b> – In-memory key-value store with caching logic</li>
-<li><b>Multithreaded Server</b> – Handles concurrent client requests efficiently</li>
-</ul>
 
 <hr/>
 
