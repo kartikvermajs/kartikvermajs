@@ -89,31 +89,18 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<h2>🏆 Achievements</h2>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=kartikvermajs&theme=radical&no-frame=true&margin-w=10&row=1" alt="trophies" />
-</p>
-
-<hr/>
-
 <h2>📊 GitHub Stats</h2>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
-<hr/>
-
-<h2>🐍 Contribution Graph</h2>
-
 <p>
-<img src="https://raw.githubusercontent.com/kartikvermajs/kartikvermajs/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 <hr/>
