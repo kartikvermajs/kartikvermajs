@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I am Kartik 👋</h1>
+<h1>Hi there, I am Kartik 👋</h1>
 
-<p align="center">
+<p>
 I'm a Full Stack Developer pursuing B.Tech CSE (2026)<br/>
 I love building scalable systems and modern web/mobile apps.
 </p>
