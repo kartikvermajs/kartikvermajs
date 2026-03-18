@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00BFA5&height=200&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 <h1>Hi there, I am Kartik 👋</h1>
 
 <p>
@@ -124,5 +125,4 @@ I love building scalable systems and modern web/mobile apps.
 <h2>⚡ Fun Fact</h2>
 
 <p>I enjoy debugging more than writing code 😄</p>
-
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00BFA5&height=120&section=footer" width="100%"/>
