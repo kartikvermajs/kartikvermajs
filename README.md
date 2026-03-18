@@ -92,7 +92,7 @@ I love building scalable systems and modern web/mobile apps.
 <h2>🏆 Achievements</h2>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=kartikvermajs&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kartikvermajs&theme=radical&no-frame=true&margin-w=10&row=1" alt="trophies" />
 </p>
 
 <hr/>
@@ -113,7 +113,7 @@ I love building scalable systems and modern web/mobile apps.
 <h2>🐍 Contribution Graph</h2>
 
 <p>
-<img src="https://github.com/kartikvermajs/kartikvermajs/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/kartikvermajs/kartikvermajs/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr/>
