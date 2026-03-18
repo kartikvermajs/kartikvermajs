@@ -17,27 +17,20 @@ I love building scalable systems and modern web/mobile apps.
 <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-<h3>Frontend</h3>
+<h3>Frameworks</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
-
-<h3>Mobile</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-<h3>Backend</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 <h3>Database</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://skillicons.dev/icons?i=supabase" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 <h3>Tools</h3>
@@ -45,6 +38,16 @@ I love building scalable systems and modern web/mobile apps.
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+<h3>Designing and Editing</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=pr" />
+<span style="display:inline-block; background:#0A0A0A; padding:10px 14px; border-radius:10px; margin-left:15px">
+  <img src="https://cdn.simpleicons.org/inkscape/ffffff" height="35"/>
+</span>
 </p>
 
 <h3>Concepts</h3>
@@ -57,6 +60,6 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<p align="center">
-⚡ “Build systems, not just features.”
+<p>
+⚡ “I Build systems, not just features.”
 </p>
