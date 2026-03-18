@@ -45,8 +45,6 @@ I love building scalable systems and modern web/mobile apps.
 <h3>Designing and Editing</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=pr" />
-<span style="display:inline-block; background:#0A0A0A; padding:10px 14px; border-radius:10px; margin-left:15px">
-  <img src="https://cdn.simpleicons.org/inkscape/ffffff" height="35"/>
 </span>
 </p>
 
