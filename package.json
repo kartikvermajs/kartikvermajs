@@ -1,0 +1,25 @@
+{
+  "name": "kartikvermajs",
+  "version": "1.0.0",
+  "description": "<h1>Hi there, I am Kartik 👋</h1>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikvermajs/kartikvermajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikvermajs/kartikvermajs/issues"
+  },
+  "homepage": "https://github.com/kartikvermajs/kartikvermajs#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1"
+  }
+}
