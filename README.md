@@ -13,6 +13,8 @@ I love building scalable systems and modern web/mobile apps.
 <p>
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 <h3>Frontend</h3>
