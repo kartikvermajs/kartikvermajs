@@ -50,10 +50,10 @@ I love building scalable systems and modern web/mobile apps.
 
 <h3>Concepts</h3>
 <p>
-<img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Caching-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-ff6b6b?style=for-the-badge" style="border-radius:20px;" />
+<img src="https://img.shields.io/badge/JWT-6c5ce7?style=for-the-badge" style="border-radius:20px;" />
+<img src="https://img.shields.io/badge/Caching-00c9a7?style=for-the-badge" style="border-radius:20px;" />
+<img src="https://img.shields.io/badge/System%20Design-ffa502?style=for-the-badge" style="border-radius:20px;" />
 </p>
 
 <hr/>
