@@ -72,6 +72,17 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvermajs&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
+</p>
+
 <p>
 ⚡ “I Build systems, not just features.”
 </p>
