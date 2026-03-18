@@ -106,13 +106,17 @@ I love building scalable systems and modern web/mobile apps.
 <h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://www.instagram.com/_kenpachi_.z/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/_kenpachi_.z/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/kartik-verma-4b99012b8" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/kartik-verma-4b99012b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://kartikverma.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <hr/>
