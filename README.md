@@ -1,58 +1,60 @@
-🚀 Hi there, I'm Kartik 👋
+<h1 align="center">Hi there, I am Kartik 👋</h1>
 
-🎓 B.Tech CSE @ Graphic Era Hill University (2026)
-💻 Full Stack Developer | Building scalable web & mobile apps
-⚡ Focused on performance, system design & real-world products
+<p align="center">
+I'm a Full Stack Developer pursuing B.Tech CSE (2026)<br/>
+I love building scalable systems and modern web/mobile apps.
+</p>
 
-🧠 About Me
+<hr/>
 
-I'm a developer who enjoys turning ideas into production-ready systems.
-I focus on building fast, scalable, and clean architectures using modern technologies.
+<h2>💻 My Skills</h2>
 
-🔭 Currently working on: Full-stack & system design projects
+<h3>Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+</p>
 
-🌱 Exploring: Distributed systems & backend scaling
+<h3>Frontend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
 
-🤝 Open to: Collaborations & Open Source
+<h3>Mobile</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-⚡ Goal: Build impactful tech products
+<h3>Backend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+</p>
 
-🛠️ Tech Stack
-💻 Languages
+<h3>Database</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=redis" />
+</p>
 
+<h3>Tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
+<h3>Concepts</h3>
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Caching-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-0A0A0A?style=for-the-badge" />
+</p>
 
+<hr/>
 
-🎨 Frontend
-
-
-
-
-📱 Mobile
-
-⚙️ Backend
-
-
-
-
-🗄️ Database
-
-
-
-
-🧰 Tools
-
-
-
-
-
-
-📚 Concepts
-
-REST APIs
-
-JWT Authentication
-
-Caching Strategies
-
-System Design
+<p align="center">
+⚡ “Build systems, not just features.”
+</p>
