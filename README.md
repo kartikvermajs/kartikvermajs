@@ -22,7 +22,7 @@ I love building scalable systems and modern web/mobile apps.
 
 <h3>Frameworks</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap" />
 </p>
 
 <h3>Database</h3>
@@ -37,7 +37,7 @@ I love building scalable systems and modern web/mobile apps.
 
 <h3>Designing and Editing</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=pr" />
+<img src="https://skillicons.dev/icons?i=pr,ps" />
 </p>
 
 <h3>Concepts</h3>
@@ -46,6 +46,7 @@ I love building scalable systems and modern web/mobile apps.
 <img src="https://img.shields.io/badge/JWT-6c5ce7?style=for-the-badge" style="border-radius:20px;" />
 <img src="https://img.shields.io/badge/Caching-00c9a7?style=for-the-badge" style="border-radius:20px;" />
 <img src="https://img.shields.io/badge/System%20Design-ffa502?style=for-the-badge" style="border-radius:20px;" />
+<img src="https://img.shields.io/badge/Rate%20Limiting-2ed573?style=for-the-badge" style="border-radius:20px;" />
 </p>
 
 <hr/>
