@@ -8,7 +8,6 @@
 
 <hr/>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=35&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Applications;System+Design+Enthusiast" />
 
 <hr/>
@@ -117,8 +116,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
-<hr/>
 
 <h2>⚡ Fun Fact</h2>
 
