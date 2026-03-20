@@ -60,8 +60,6 @@
 <li>Developing real-world developer tools</li>
 </ul>
 
-<hr/>
-
 <h2>🌱 Currently Learning</h2>
 
 <ul>
@@ -69,8 +67,6 @@
 <li>Distributed Systems</li>
 <li>Advanced Backend Scaling</li>
 </ul>
-
-<hr/>
 
 <h2>🎯 2026 Goals</h2>
 
