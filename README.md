@@ -2,8 +2,8 @@
 <h1>Hi there, I am Kartik 👋</h1>
 
 <p>
-I'm a Full Stack Developer pursuing B.Tech CSE (2026)<br/>
-I love building scalable systems and modern web/mobile apps.
+- I'm a Full Stack Developer pursuing B.Tech CSE (2026)<br/>
+- I love building scalable systems and modern web/mobile apps.
 </p>
 
 <hr/>
@@ -72,7 +72,7 @@ I love building scalable systems and modern web/mobile apps.
 
 <hr/>
 
-<h2>2026 Goals</h2>
+<h2>🎯 2026 Goals</h2>
 
 <ul>
 <li>Land a top tech role</li>
