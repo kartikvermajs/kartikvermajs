@@ -86,17 +86,17 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikvermajs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikvermajs&layout=compact&theme=tokyonight&hide_border=true&border_radius=1&card_width=450" />
 </p>
 
 <hr/>
 <h2>📊 LeetCode Stats</h2>
 <p>
-  <img src="https://leetcard.jacoblin.cool/kartikverma951?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/kartikverma951?theme=dark&ext=heatmap&border_radius=1&card_width=500" />
 </p>
 
 <hr/>
